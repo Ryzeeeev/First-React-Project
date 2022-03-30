@@ -2,6 +2,8 @@
 
   It's my first project when i use react in JavaScript !
 
+  It's a simple Code
+
 # Source
 
   I use a video Youtube : https://www.youtube.com/watch?v=K3D2rjAUQ3o
@@ -18,4 +20,4 @@
   npm install
   ```
 
-# Creator : Ryzeeeeeeeeee#1047 \n Developper : Ryzeeeeeeeeee#1047
+# Creator : Ryzeeeeeeeeee#1047 \ Discord : Ryzeeeeeeeeee#1047
