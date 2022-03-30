@@ -9,15 +9,13 @@
 # Installation 
   
   If you want download my project you can 
-  Command :
+  Commands to install my project :
   ```
-     npm i
+  npm i
   ```
    OR
   ```
   npm install
   ```
-  
 
-# Creator : Ryzeeeeeeeeee#1047
-# Développer : Ryzeeeeeeeeee#1047
+# Creator : Ryzeeeeeeeeee#1047 \n Developper : Ryzeeeeeeeeee#1047
